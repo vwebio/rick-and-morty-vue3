@@ -1,14 +1,11 @@
 <template>
-  <header class="header">
-    <h1>Rick and Morty API</h1>
-    <div class="filter"></div>
-  </header>
+    <Header />
+    <Main />
+    <Footer />
 </template>
 
 <script setup>
-
+import Header from '@/views/Header.vue';
+import Main from '@/views/Main.vue';
+import Footer from '@/views/Footer.vue';
 </script>
-
-<style scoped>
-
-</style>

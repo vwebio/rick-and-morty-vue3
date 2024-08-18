@@ -6,7 +6,7 @@
 - **Vite.js**
 - **Vue.js**
 - **JavaScript (ES6+)**
-- **SCSS**: 
+- **SCSS**
 - **API Rick and Morty**
 
 #### Основные компоненты:

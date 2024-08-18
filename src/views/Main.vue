@@ -101,8 +101,7 @@ const cardsPerPage = ref(10);
 const currentPage = ref(1);
 
 // Получение данных персонажей и информации
-const { characters, loading, loadCharacters, resetCharacters, info, loadInfo } =
-  useCharacters();
+const { characters, loading, loadCharacters, resetCharacters, info, loadInfo } = useCharacters();
 
 // Отображение карточек на текущей странице
 const paginatedCharacters = computed(() => {

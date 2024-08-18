@@ -1,4 +1,4 @@
-# Rick and Morty Api
+# Vue 3 SPA "Rick and Morty Api"
 
 ### Описание проекта
 

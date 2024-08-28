@@ -169,7 +169,7 @@ onMounted(async () => {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 10px;
 }
 
 .filter {
